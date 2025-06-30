@@ -7,7 +7,7 @@ To run the Python code, you must install [Git](https://git-scm.com/downloads) an
 
 1. Clone the repository:
 ```shell
-git clone https://github.com/Rohanpatel512/AI_Connect_Four.git
+git clone https://github.com/Aarush-04/AI_Connect_Four.git
 ```
 
 2. Change to directory:
